@@ -1,3 +1,3 @@
 # Гаджет яндекс метрики для Bitrix
-![Гаджет яндекс метрики для Bitrix](https://github.com/{username}/{repository}/blob/raw/{branch}/screen.png)
+![Гаджет яндекс метрики для Bitrix](https://github.com/SeRGei93/bitrix-metrika-gadget/blob/master/screen.png)
 
